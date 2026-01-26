@@ -10,5 +10,5 @@ I am a team player with a strong sense of responsibility who looks to proving my
 
 
 ## 🔗 Links:
-<a href="mailto:me@theserhii.com"><img src="https://img.shields.io/badge/Email-SERHII-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/s-tkachenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Serhii%20Tkachenko-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="mailto:me@theserhii.com"><img src="https://img.shields.io/badge/Email-me@theserhii.com-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/s-tkachenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Serhii%20Tkachenko-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
