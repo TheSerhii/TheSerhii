@@ -13,3 +13,5 @@ I am a team player with a strong sense of responsibility who looks to proving my
 
 
 <img width="2034" height="856" alt="CleanShot 2026-06-25 at 11 09 01@2x" src="https://github.com/user-attachments/assets/4c5da951-e39e-404b-84ec-e704a9c19bcb" />
+
+<img width="2034" alt="CleanShot 2026-06-25 at 12 40 32@2x" src="https://github.com/user-attachments/assets/271dde15-c11c-4546-ae98-50026f2697ba" />
