@@ -10,8 +10,3 @@ I am a team player with a strong sense of responsibility who looks to proving my
 
 ## 🔗 Links:
 <a href="mailto:me@theserhii.com"><img src="https://img.shields.io/badge/Email-me@theserhii.com-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/s-tkachenko/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Serhii%20Tkachenko-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-
-
-<img width="2034" height="856" alt="CleanShot 2026-06-25 at 11 09 01@2x" src="https://github.com/user-attachments/assets/4c5da951-e39e-404b-84ec-e704a9c19bcb" />
-
-<img width="2034" alt="CleanShot 2026-06-25 at 12 40 32@2x" src="https://github.com/user-attachments/assets/271dde15-c11c-4546-ae98-50026f2697ba" />
